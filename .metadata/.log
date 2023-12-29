@@ -3194,3 +3194,1408 @@ Binding(COMMAND+SHIFT+C,
 
 !ENTRY Activator 1 0 2023-12-23 22:18:42.842
 !MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-24 09:28:04.814
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jFOUtaIy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-24 09:28:04.817
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.jFOUtaIy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-24 09:28:04.817
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-24 09:28:04.817
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.jFOUtaIy => OK
+
+!ENTRY org.eclipse.ui 2 2 2023-12-24 09:28:05.371
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2023-12-27 19:24:42.681 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-27 19:24:49.331
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-27 19:24:49.331
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-27 19:24:49.331
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-27 19:24:49.331
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-27 19:24:49.331
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-27 19:24:49.331
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-27 19:24:49.331
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.eclipse.ui 4 4 2023-12-27 19:24:52.630
+!MESSAGE Plug-in 'org.eclipse.egit.ui' contributed an invalid Menu Extension (Path: 'org.eclipse.search.menu' is invalid): org.eclipse.egit.ui.actions.OpenCommitSearchPage
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:54.402
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:54.403
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@565983f3[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:54.404
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:54.525
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:56.844
+!MESSAGE Boot LS startup time from start to initialized: 2379ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.428
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YvBCWPFzisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.438
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.442
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.443
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.443
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YvBCWPFz => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.451
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.512
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.516
+!MESSAGE buffering callback sts4.classpath.YvBCWPFz blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.532
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.533
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.534
+!MESSAGE buffering callback sts4.classpath.YvBCWPFz Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.534
+!MESSAGE executing callback sts4.classpath.YvBCWPFz 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 19:24:57.999
+!MESSAGE executing callback sts4.classpath.YvBCWPFz SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-27 19:25:38.364
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-27 19:25:39.207
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2023-12-27 19:25:59.272
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2023-12-27 19:27:03.724
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-27 19:27:05.036
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-27 19:27:05.404
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-27 19:27:06.820
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-27 19:27:07.179
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-27 21:46:11.216
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-27 21:46:12.011
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 21:46:13.324
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YvBCWPFz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 21:46:13.325
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YvBCWPFz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 21:46:13.326
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-27 21:46:13.326
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YvBCWPFz => OK
+!SESSION 2023-12-28 16:46:58.575 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-28 16:47:13.777
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 16:47:13.777
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 16:47:13.777
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 16:47:13.777
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 16:47:13.777
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 16:47:13.777
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 16:47:13.777
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:20.046
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:20.049
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7225583d[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:20.050
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:20.076
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2023-12-28 16:47:21.508
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.165
+!MESSAGE Boot LS startup time from start to initialized: 2109ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.236
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FknzBgyyisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.245
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.247
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.247
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.250
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FknzBgyy => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.254
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.302
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.304
+!MESSAGE buffering callback sts4.classpath.FknzBgyy blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.305
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.306
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.306
+!MESSAGE buffering callback sts4.classpath.FknzBgyy Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.307
+!MESSAGE executing callback sts4.classpath.FknzBgyy 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 16:47:22.783
+!MESSAGE executing callback sts4.classpath.FknzBgyy SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-28 16:47:54.792
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 16:47:56.433
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 16:47:58.120
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 16:50:25.636
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 16:50:26.278
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 16:57:07.044
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 16:57:07.696
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2023-12-28 16:57:18.158
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2023-12-28 18:25:57.086
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:25:57.836
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:36:10.828
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:36:11.463
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:36:29.252
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:36:29.918
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:36:31.085
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:36:31.674
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:36:50.666
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:36:51.057
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FknzBgyy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:36:51.058
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.FknzBgyy
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:36:51.058
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:36:51.058
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FknzBgyy => OK
+
+!ENTRY Activator 1 0 2023-12-28 18:36:51.279
+!MESSAGE Has main method computation for project 'blog'
+!SESSION 2023-12-28 18:37:03.082 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-28 18:37:08.719
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 18:37:08.719
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 18:37:08.719
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 18:37:08.719
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 18:37:08.719
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 18:37:08.719
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 18:37:08.719
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:15.580
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:15.581
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@11759e4a[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:15.582
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:15.600
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2023-12-28 18:37:17.374
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.636
+!MESSAGE Boot LS startup time from start to initialized: 2049ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.734
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YlpdbfZkisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.741
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.742
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.743
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.743
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.YlpdbfZk => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.747
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.757
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.758
+!MESSAGE buffering callback sts4.classpath.YlpdbfZk blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.759
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.764
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.764
+!MESSAGE buffering callback sts4.classpath.YlpdbfZk Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:17.765
+!MESSAGE executing callback sts4.classpath.YlpdbfZk 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:37:18.220
+!MESSAGE executing callback sts4.classpath.YlpdbfZk SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-28 18:37:25.185
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:37:27.180
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:37:28.802
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2023-12-28 18:41:41.909
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2023-12-28 18:44:42.323
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:44:42.846
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:44:42.847
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:44:42.853
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:44:42.855
+!MESSAGE buffering callback sts4.classpath.YlpdbfZk blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:44:42.856
+!MESSAGE executing callback sts4.classpath.YlpdbfZk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:44:42.889
+!MESSAGE executing callback sts4.classpath.YlpdbfZk SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-28 18:44:43.696
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:44:43.873
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:45:50.540
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:45:51.259
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:48:11.338
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 18:48:12.052
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:51:22.822
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YlpdbfZk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:51:22.824
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.YlpdbfZk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:51:22.824
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 18:51:22.825
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.YlpdbfZk => OK
+!SESSION 2023-12-28 19:52:51.212 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-28 19:53:05.644
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 19:53:05.645
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 19:53:05.645
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 19:53:05.645
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 19:53:05.645
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 19:53:05.645
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 19:53:05.645
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:12.365
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:12.367
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5b1b2110[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:12.369
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:12.416
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2023-12-28 19:53:13.837
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.535
+!MESSAGE Boot LS startup time from start to initialized: 2158ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.651
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NZTDUfnzisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.657
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.658
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.660
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.660
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NZTDUfnz => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.665
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.722
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.725
+!MESSAGE buffering callback sts4.classpath.NZTDUfnz blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.729
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.730
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.730
+!MESSAGE buffering callback sts4.classpath.NZTDUfnz Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:14.730
+!MESSAGE executing callback sts4.classpath.NZTDUfnz 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 19:53:15.203
+!MESSAGE executing callback sts4.classpath.NZTDUfnz SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2023-12-28 19:53:21.699
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2023-12-28 20:09:39.849
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:09:41.514
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:09:41.738
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:10:38.089
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:10:38.770
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:12:08.658
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:12:09.344
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:12:49.504
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:12:50.169
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:14:54.984
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:14:55.633
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:18:21.213
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:18:21.879
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:38.778
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NZTDUfnz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:38.781
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.NZTDUfnz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:38.781
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:38.781
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.NZTDUfnz => OK
+!SESSION 2023-12-28 20:26:42.276 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-28 20:26:47.703
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 20:26:47.703
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 20:26:47.704
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 20:26:47.704
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 20:26:47.704
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 20:26:47.704
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 20:26:47.704
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:54.484
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:54.485
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@5b5783a2[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:54.486
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:54.505
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2023-12-28 20:26:56.115
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.617
+!MESSAGE Boot LS startup time from start to initialized: 2123ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.715
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DLaaOEeUisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.720
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.722
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.723
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.723
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.DLaaOEeU => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.727
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.742
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.743
+!MESSAGE buffering callback sts4.classpath.DLaaOEeU blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.744
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.745
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.745
+!MESSAGE buffering callback sts4.classpath.DLaaOEeU Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:56.745
+!MESSAGE executing callback sts4.classpath.DLaaOEeU 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:26:57.230
+!MESSAGE executing callback sts4.classpath.DLaaOEeU SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-28 20:27:31.425
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:27:33.104
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:27:34.868
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2023-12-28 20:27:35.866
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2023-12-28 20:30:08.283
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:30:09.467
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:30:14.103
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:30:14.719
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-12-28 20:33:47.646
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2023-12-28 20:36:31.939
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:36:32.603
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:37:23.066
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:37:23.723
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-12-28 20:40:23.106
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2023-12-28 20:42:18.076
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2023-12-28 20:47:39.089
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:47:39.750
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:47:41.950
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 20:47:42.533
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:48:14.506
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DLaaOEeU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:48:14.506
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.DLaaOEeU
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:48:14.507
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 20:48:14.507
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DLaaOEeU => OK
+!SESSION 2023-12-28 21:05:32.962 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-28 21:07:28.322
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:07:28.322
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:07:28.322
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:07:28.322
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:07:28.322
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:07:28.322
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:07:28.322
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:35.631
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:35.633
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@75903d35[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:35.636
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:35.689
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2023-12-28 21:07:37.677
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.391
+!MESSAGE Boot LS startup time from start to initialized: 2742ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.485
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.PJQpyvoEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.491
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.492
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.497
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.499
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.PJQpyvoE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.501
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.516
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.518
+!MESSAGE buffering callback sts4.classpath.PJQpyvoE blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.518
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.518
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.519
+!MESSAGE buffering callback sts4.classpath.PJQpyvoE Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.519
+!MESSAGE executing callback sts4.classpath.PJQpyvoE 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:07:38.979
+!MESSAGE executing callback sts4.classpath.PJQpyvoE SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:10:23.091
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PJQpyvoE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:10:23.094
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.PJQpyvoE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:10:23.094
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-28 21:10:23.094
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.PJQpyvoE => OK
+
+!ENTRY org.eclipse.ui 2 2 2023-12-28 21:10:23.473
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2023-12-28 21:43:18.148 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-28 21:45:37.531
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:45:37.531
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:45:37.531
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:45:37.531
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:45:37.531
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:45:37.531
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-28 21:45:37.531
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2023-12-28 21:45:49.407
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-28 21:45:52.171
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2023-12-28 21:51:28.370
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2023-12-29 14:04:03.736 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-29 14:04:08.857
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:04:08.857
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:04:08.857
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:04:08.857
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:04:08.857
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:04:08.857
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:04:08.857
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2023-12-29 14:04:16.718
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:25.827
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:25.829
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@61d4e070[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:25.831
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:25.864
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.835
+!MESSAGE Boot LS startup time from start to initialized: 1994ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.886
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KWcUzuTrisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.888
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.889
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.890
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.890
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KWcUzuTr => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.890
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.899
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.901
+!MESSAGE buffering callback sts4.classpath.KWcUzuTr blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.901
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.902
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.902
+!MESSAGE buffering callback sts4.classpath.KWcUzuTr Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:27.902
+!MESSAGE executing callback sts4.classpath.KWcUzuTr 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:04:28.262
+!MESSAGE executing callback sts4.classpath.KWcUzuTr SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-29 14:09:26.396
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:09:28.300
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:09:28.464
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:09:28.883
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 0 2023-12-29 14:14:21.390
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:14:21.391
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:14:21.391
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:14:21.391
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:14:21.391
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:14:21.391
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:14:21.391
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2023-12-29 14:16:41.591
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:16:42.289
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:19:45.165
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:19:45.928
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:19:49.104
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KWcUzuTr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:19:49.105
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.KWcUzuTr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:19:49.105
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:19:49.105
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KWcUzuTr => OK
+
+!ENTRY org.eclipse.ui 2 2 2023-12-29 14:19:49.324
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2023-12-29 14:19:54.329 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-29 14:19:59.763
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:19:59.764
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:19:59.764
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:19:59.764
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:19:59.764
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:19:59.764
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:19:59.764
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:06.010
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:06.013
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@61db3922[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:06.014
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:06.033
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2023-12-29 14:20:07.456
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.255
+!MESSAGE Boot LS startup time from start to initialized: 2233ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.350
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ibIKFoqrisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.361
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.364
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.366
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.366
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ibIKFoqr => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.370
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.385
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.387
+!MESSAGE buffering callback sts4.classpath.ibIKFoqr blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.388
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.396
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.396
+!MESSAGE buffering callback sts4.classpath.ibIKFoqr Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.396
+!MESSAGE executing callback sts4.classpath.ibIKFoqr 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:20:08.858
+!MESSAGE executing callback sts4.classpath.ibIKFoqr SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 0 2023-12-29 14:20:09.257
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:20:09.257
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:20:09.257
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:20:09.257
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:20:09.257
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:20:09.257
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:20:09.257
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2023-12-29 14:21:04.414
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:21:06.192
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:21:07.769
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:21:15.103
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:21:15.811
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:21:23.241
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:21:23.893
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:29:10.273
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:29:12.407
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:29:13.216
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:13.222
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:13.225
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:13.226
+!MESSAGE buffering callback sts4.classpath.ibIKFoqr blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:13.226
+!MESSAGE executing callback sts4.classpath.ibIKFoqr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:13.265
+!MESSAGE executing callback sts4.classpath.ibIKFoqr SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:14.381
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:14.396
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:14.399
+!MESSAGE buffering callback sts4.classpath.ibIKFoqr blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:14.399
+!MESSAGE executing callback sts4.classpath.ibIKFoqr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:29:14.423
+!MESSAGE executing callback sts4.classpath.ibIKFoqr SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-29 14:29:14.852
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:29:15.320
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:30:29.357
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:30:31.001
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:30:31.338
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:30:31.351
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:30:31.351
+!MESSAGE buffering callback sts4.classpath.ibIKFoqr blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:30:31.352
+!MESSAGE executing callback sts4.classpath.ibIKFoqr 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:30:31.367
+!MESSAGE executing callback sts4.classpath.ibIKFoqr SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-29 14:30:31.607
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:30:33.109
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2023-12-29 14:30:52.419
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:22.442
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ibIKFoqr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:22.443
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.ibIKFoqr
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:22.443
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:22.443
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.ibIKFoqr => OK
+!SESSION 2023-12-29 14:32:34.473 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/choiyoungseo/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 0 2023-12-29 14:32:41.152
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:41.153
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:41.153
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:41.153
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:41.153
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:41.153
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:41.153
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:48.296
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:48.297
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@31fee825[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=552)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:48.299
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:48.323
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2023-12-29 14:32:49.635
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.882
+!MESSAGE Boot LS startup time from start to initialized: 2573ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.962
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BHhdEZJBisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.966
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.968
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.973
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.973
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BHhdEZJB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.975
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.989
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.992
+!MESSAGE buffering callback sts4.classpath.BHhdEZJB blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.992
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.995
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.996
+!MESSAGE buffering callback sts4.classpath.BHhdEZJB Hello false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:50.997
+!MESSAGE executing callback sts4.classpath.BHhdEZJB 2 batched events
+
+!ENTRY org.eclipse.ui 2 0 2023-12-29 14:32:51.384
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:51.384
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:51.384
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:51.384
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:51.384
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:51.384
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2023-12-29 14:32:51.384
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:32:51.418
+!MESSAGE executing callback sts4.classpath.BHhdEZJB SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-29 14:35:12.245
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:35:31.502
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:35:33.167
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:35:34.515
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:24.962
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:26.604
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:27.487
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:27.493
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:27.501
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:27.502
+!MESSAGE buffering callback sts4.classpath.BHhdEZJB blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:27.502
+!MESSAGE executing callback sts4.classpath.BHhdEZJB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:27.543
+!MESSAGE executing callback sts4.classpath.BHhdEZJB SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-29 14:36:28.334
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:29.666
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:39.613
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:41.402
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:41.418
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:41.432
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:41.436
+!MESSAGE buffering callback sts4.classpath.BHhdEZJB blog false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:41.437
+!MESSAGE executing callback sts4.classpath.BHhdEZJB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-12-29 14:36:41.457
+!MESSAGE executing callback sts4.classpath.BHhdEZJB SUCCESS [done]
+
+!ENTRY Activator 1 0 2023-12-29 14:36:42.753
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:43.531
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:55.054
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:36:55.891
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2023-12-29 14:37:09.031
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2023-12-29 14:40:28.716
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 14:40:29.688
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:42:31.406
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:42:32.381
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:50:21.210
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:50:22.145
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:51:01.809
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:51:02.616
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:52:11.681
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:52:12.578
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:52:13.523
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:52:14.197
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:52:29.454
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2023-12-29 15:52:30.045
+!MESSAGE Has main method computation for project 'blog'

@@ -1,0 +1,6 @@
+package com.cos.blog.test;
+
+@RestController
+public class HttpControllerTest {
+
+}
